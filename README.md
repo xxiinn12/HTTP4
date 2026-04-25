@@ -21,5 +21,5 @@ go run cmd/h4-server/main.go
 go run cmd/h4-client/main.go "hello"
 
 ## Notes
-- Not compatible with HTTPS websites
+- Not yet compatible with HTTPS websites
 - Requires custom server
