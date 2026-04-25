@@ -31,7 +31,7 @@ High-performance request client using HTTP4 module (ALPN "h4").
 
 ### Usage
 ```bash
-go run request.go host:port jumlah_request
+//go run request.go host:port jumlah_request
 
 
 package main
